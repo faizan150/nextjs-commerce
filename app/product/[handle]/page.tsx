@@ -140,4 +140,3 @@ async function RelatedProducts({ id }: { id: string }) {
     </div>
   );
 }
-// Adding Some of the comments
